@@ -1,6 +1,3 @@
-﻿spring: 
-   profiles:
-    active: dev
 server:
   port: 6002 # 服务端口
 spring:
